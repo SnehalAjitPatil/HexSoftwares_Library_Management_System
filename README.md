@@ -192,17 +192,8 @@ View statistics
 
 Close pages safely using the Close or Exit buttons
 
-📂 Directory Structure
-HexSoftwares_Library_Management_System/
-│
-├── src/                        # Source files  
-│   ├── Project/                # DB connection and SQL queries  
-│   ├── java/                   # Swing forms (Login, Home, etc.),Book & Student models                  
-│   └── resources/images        # Images or icons used in GUI 
-├── lib/                        # Layout and Jcalender jar file  
-├── README.md                   # Project documentation  
-└── LMS_SQL.sql                 # Database schema
 
+The Source code Files are stored in Master Branch download them from there.
 
 
 📬 Contact
