@@ -1,7 +1,7 @@
 # HexSoftwares_Library_Management_System
 📚 HexSoftwares Library Management System
 
-A desktop-based Library Management System designed and developed by HexSoftwares to manage student and book records efficiently.
+A desktop-based Library Management System designed and developed to manage student and book records efficiently.
 This system helps librarians and institutions maintain accurate records of books issued, returned, and available in the library with an easy-to-use graphical interface.
 
 Library Management System in Java(using JFrame, Netbeans, MySQL)
